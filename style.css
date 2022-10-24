@@ -349,8 +349,9 @@ input[type=reset] {
   }
 
   main{
-    
-    width: 100%;
+    /* width: 100% */
+      
+    width: 30%;
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
