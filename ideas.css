@@ -179,7 +179,9 @@ nav ul li ul li a:hover{
 
 
 .video h2{
-    width: 1440px;
+    /* width: 1440px; */
+    width: 30%
+        
     height: 80px;
     margin: 20px;
     background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
