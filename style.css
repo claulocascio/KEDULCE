@@ -347,6 +347,8 @@ input[type=reset] {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+      /* ADDED */
+      postion: fixed;
     
     
   }
