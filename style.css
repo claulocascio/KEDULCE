@@ -274,8 +274,8 @@ input[type=reset] {
 
     .flex-container {
         border-radius: 25px;
-        /* background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
-        margin: 10px 300px; */
+        background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+        /* margin: 10px 300px; */
         margin: 10px 10px;
         padding: 5px;
         box-shadow: 0px 5px 20px 0px rgba(1, 1, 1, 1);
