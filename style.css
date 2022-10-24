@@ -364,7 +364,7 @@ input[type=reset] {
   .estilo-a .info-container h3, .estilo-a .info-container strong{
     font-size: 15px;
     align-items: center;
-    padding-left: 30px;
+    padding-left: 0px;
   }
   
   .estilo-a .add-cart{
