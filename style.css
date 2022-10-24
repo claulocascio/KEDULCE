@@ -389,6 +389,10 @@ input[type=reset] {
   
   font-size: 8px;
 }
+    
+  .flex-container{
+      width: 100%
+    }
 
 .redes{
   font-size: 15px;
