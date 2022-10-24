@@ -340,6 +340,7 @@ input[type=reset] {
   }
 
   .estilo-a .img-container img{
+    width: 200%
     max-width: 600px;
     flex-wrap: wrap;
     justify-content: center;
@@ -351,7 +352,7 @@ input[type=reset] {
   main{
     /* width: 100% */
       
-    width: 30%;
+    width: 200%;
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
@@ -386,7 +387,7 @@ input[type=reset] {
 }
 
 .container_menu{
-  
+  width: 100%
   font-size: 8px;
 }
     
